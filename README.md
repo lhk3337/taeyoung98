@@ -7,7 +7,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=capsule%20render&fontSize=90)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoung98&theme=tokyonight&show_icons=true&count_private=true&bg_color=DEG,COLOR1,COLOR2,COLOR3...COLOR10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoung98&theme=tokyonight&show_icons=true&count_private=true)
 <br>
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=taeyoung98&repo=Green-Furniture_web_project&theme=tokyonight)](https://github.com/taeyoung98/Green-Furniture_web_project) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=taeyoung98&langs_count=6&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) -->
