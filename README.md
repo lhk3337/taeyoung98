@@ -6,7 +6,7 @@
  
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=tang%20hub&fontSize=90)
 
-<div marginLeft=500>
+<div style={marginLeft: 500px}>
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=taeyoung98&theme=tokyonight&show_icons=true&count_private=true)
 
