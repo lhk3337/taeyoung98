@@ -4,7 +4,7 @@
   
  </div>
  
-![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=tang%20hub&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=tang%20hub&fontSize=90&animation=twinkling&fontAlignY=40)
 
 <div style={marginLeft: 500px}>
   
